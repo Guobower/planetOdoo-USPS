@@ -29,6 +29,8 @@
     "website" : "http://planet-odoo.com", 
     'author': 'Planet Odoo',
     'depends': ['sale','stock','delivery','product','sale_stock'],
+	"price": "50",
+	"currency": "EUR",
     'css': [
         'static/src/css/rotate_label.css',
         ],
