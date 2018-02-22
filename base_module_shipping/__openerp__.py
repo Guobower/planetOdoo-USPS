@@ -33,6 +33,8 @@
         'static/src/css/rotate_label.css',
         ],
     "demo" : [],
+    'price': 399.99,
+	'currency': 'EUR',
     "data": [
         "security/shipping_security.xml",
         "security/ir.model.access.csv",
