@@ -20,7 +20,7 @@
 
 
 {
-    'name': 'Shipping Service Integration',
+    'name': 'Shipping Base Module',
     'version': '1.0',
     'category': 'Generic Modules/Warehouse Management',
     'description': """
@@ -33,7 +33,7 @@
         'static/src/css/rotate_label.css',
         ],
     "demo" : [],
-    'price': 399.99,
+    'price': 50,
 	'currency': 'EUR',
     "data": [
         "security/shipping_security.xml",
